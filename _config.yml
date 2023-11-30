@@ -1,9 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins: 
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+theme: minimal
 title: Bio & thoughts
 author: Tomasz Guściora
 description: To be updated
