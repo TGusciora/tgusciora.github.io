@@ -2,4 +2,5 @@
 
 source "https://rubygems.org"
 
-gemspec
+# gem "rails"
+gem "github-pages", group: :jekyll_plugins
