@@ -1,3 +1,3 @@
 ---
-title: AnalyzeYou - blog by Tomasz Guściora
+title: AnalyzeYou - by Tomasz Guściora
 ---
