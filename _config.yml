@@ -1,8 +1,6 @@
 theme: minima
 title: DemistyfAI
-author:
-  name: Tomasz Gusciora (still figuring out how to do Polish acute accents) 
-  email: demistyfAI@gmail.com
+author: Tomasz Gusciora (still figuring out how to do Polish acute accents) 
 description: All rights reserved. All presented views & statements are solely my own. For more legal mumbo-jumbo - please read "Disclaimers" post.
 
 minima:
