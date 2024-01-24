@@ -1,4 +1,16 @@
 theme: minima
 title: DemistyfAI
-author: Tomasz Gusciora (still figuring out how to support polish acute accents in this section)
-description: All rights reserved. All presented views & statements are solely my own. Site contents do not reflect views of any particular employer or business associate of mine. For more legal mumbo-jumbo - please read <a href="https://tgusciora.github.io/2024/01/01/post.html">here</a>. Feel free to e-mail me at <a href="mailto:demistyfAI@gmail.com">demistyfAI@gmail.com</a>
+author:
+  name: Tomasz Gusciora (still figuring out how to do Polish acute accents) 
+  email: demistyfAI@gmail.com
+ plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+description: All rights reserved. All presented views & statements are solely my own. For more legal mumbo-jumbo - please read "Disclaimers" post.
+
+minima:
+skin: dark
+
+ social_links:
+  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/tgusciora/"}
+  - { platform: github,         user_url: "https://github.com/TGusciora"}
