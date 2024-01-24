@@ -3,14 +3,11 @@ title: DemistyfAI
 author:
   name: Tomasz Gusciora (still figuring out how to do Polish acute accents) 
   email: demistyfAI@gmail.com
- plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 description: All rights reserved. All presented views & statements are solely my own. For more legal mumbo-jumbo - please read "Disclaimers" post.
 
 minima:
-skin: dark
+    skin: dark
 
- social_links:
-  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/tgusciora/"}
-  - { platform: github,         user_url: "https://github.com/TGusciora"}
+social_links:
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/tgusciora/"}
+    - { platform: github,         user_url: "https://github.com/TGusciora"}
