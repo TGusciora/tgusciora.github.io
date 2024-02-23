@@ -5,8 +5,7 @@ title: DemystifAI
 <br>
 <h3>**👋 Meet Tomasz**</h3>  
 <br>  
-<p>Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot.</p>  
-<br> 
+<p>Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot.</p>
 <h4><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩 Contact me: tomasz@demystifAI.blog</a></h4>  
 <h4><a href="https://github.com/TGusciora" target="_blank">🔗 Github</a></h4>  
 <h4><a href="https://www.linkedin.com/in/tgusciora/" target="_blank">🔗 LinkedIn</a></h4>  
