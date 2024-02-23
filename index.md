@@ -1,10 +1,9 @@
 ---
 title: DemystifAI
 ---
-<h2>Welcome to DemystifAI!</h2>  
-  
-  
-<h3>👋 Meet Tomasz</h3>  
+<h2>**Welcome to DemystifAI!**</h2>  
+<br>
+<h3>**👋 Meet Tomasz**</h3>  
 <br>  
 <p>Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot.</p>  
 <br> 
@@ -12,9 +11,7 @@ title: DemystifAI
 <h4><a href="https://github.com/TGusciora" target="_blank">🔗 Github</a></h4>  
 <h4><a href="https://www.linkedin.com/in/tgusciora/" target="_blank">🔗 LinkedIn</a></h4>  
 <br>  
-<br>  
-<br>  
-<h3>🚀 What to Expect</h3>  
+<h3>**🚀 What to Expect**</h3>  
 <br>  
 <ul>
   <li><strong>In-Depth Analysis:</strong> demystifying complex concepts with clear explanations.</li>
@@ -24,7 +21,7 @@ title: DemystifAI
 </ul>
 <p>Are you ready to dive in? <strong>Buckle up for an enlightening ride!</strong></p>  
 <br>  
-<h3>🔧 My Tech Toolkit</h3>  
+<h3>**🔧 My Tech Toolkit**</h3>  
 <br>  
 <ul>
   <li>🐍 <strong>Python:</strong> for powerful and versatile coding.</li>
