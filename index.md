@@ -13,9 +13,9 @@ Expect a lot of analyzing, explaining, humour, questioning, AI generated picture
 Buckle up!
 
 My tech stack:
-🐍 Python
-🤖 Large Language Models / Artificial Intelligence
-🦾 SAS / 4GL / CASL
-🏫 SQL
-⛴️ Docker
-📑 GIT
+🐍 Python  
+🤖 Large Language Models / Artificial Intelligence  
+🦾 SAS / 4GL / CASL  
+🏫 SQL  
+⛴️ Docker  
+📑 GIT  
