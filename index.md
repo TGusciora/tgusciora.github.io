@@ -3,7 +3,7 @@ title: DemystifAI
 ---
 <h2><strong>Welcome to DemystifAI!</strong></h2>  
 <h3><strong>👋 Meet Tomasz</strong></h3>  
-<p>Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot.</p>
+<p>Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot. Scroll down to see posts section.</p>
 <h4><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩 Contact me: tomasz@demystifAI.blog</a></h4>  
 <h4><a href="https://github.com/TGusciora" target="_blank">🔗 Github</a></h4>  
 <h4><a href="https://www.linkedin.com/in/tgusciora/" target="_blank">🔗 LinkedIn</a></h4>  
