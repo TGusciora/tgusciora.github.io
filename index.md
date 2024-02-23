@@ -8,9 +8,11 @@ title: DemystifAI
   
 <p>Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot.</p>  
   
-<h3><a href="mailto:tomasz@demystifAI.blog">📩 Contact me: tomasz@demystifAI.blog</a></h3>  
-<h3><a href="https://github.com/TGusciora">🔗 Github</a></h3>  
-<h3><a href="https://www.linkedin.com/in/tgusciora/">🔗 LinkedIn</a></h3>  
+<h4><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩 Contact me: tomasz@demystifAI.blog</a></h4>  
+<h4><a href="https://github.com/TGusciora" target="_blank">🔗 Github</a></h4>  
+<h4><a href="https://www.linkedin.com/in/tgusciora/" target="_blank">🔗 LinkedIn</a></h4>  
+  
+  
   
 <h3>🚀 What to Expect</h3>  
   
@@ -33,4 +35,4 @@ title: DemystifAI
   <li>📑 <strong>GIT:</strong> keeping our code and collaboration streamlined.</li>
 </ul>  
   
-<p><em>Feel free to explore, and don't hesitate to reach out at <a href="mailto:tomasz@demystifAI.blog">📩tomasz@demystifAI.blog</a> if you have questions or ideas to share!</em></p>
+<p><em>Feel free to explore, and don't hesitate to reach out at <a href="mailto:tomasz@demystifAI.blog" target="_blank">📩tomasz@demystifAI.blog</a> if you have questions or ideas to share!</em></p>
