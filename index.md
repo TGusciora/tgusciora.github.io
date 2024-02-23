@@ -8,6 +8,10 @@ title: DemystifAI
   
 <p>Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot.</p>  
   
+<h3><a href="mailto:tomasz@demystifai.blog">📩 Contact me: tomasz@demystifai.blog</a></h3>  
+<h3><a href="https://github.com/TGusciora">🔗 Github</a></h3>  
+<h3><a href="https://www.linkedin.com/in/tgusciora/">🔗 LinkedIn</a></h3>  
+  
 <h3>🚀 What to Expect</h3>  
   
 <ul>
