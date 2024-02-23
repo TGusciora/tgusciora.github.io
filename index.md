@@ -21,4 +21,4 @@ title: DemystifAI
   <li>⛴️ <strong>Docker:</strong> containerizing applications for efficiency.</li>
   <li>📑 <strong>GIT:</strong> keeping our code and collaboration streamlined.</li>
 </ul>
-<p><em>Feel free to explore, and don't hesitate to reach out ([tomasz@demystifAI.blog](mailto:tomasz@demystifai.blog)) if you have questions or ideas to share!</em></p>
+<p><em>Feel free to explore, and don't hesitate to reach out at <a href="mailto:tomasz@demystifai.blog">📩tomasz@demystifai.blog</a> if you have questions or ideas to share!</em></p>
