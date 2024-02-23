@@ -2,16 +2,13 @@
 title: <strong>DemystifAI</strong>
 ---
 <h2><strong>Welcome to DemystifAI!</strong></h2>  
-<br style="line-height:0.5rem;"> 
 <h3><strong>👋 Meet Tomasz</strong></h3>  
-<br style="line-height:0.5rem;"> 
 <p>Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot.</p>
 <h4><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩 Contact me: tomasz@demystifAI.blog</a></h4>  
 <h4><a href="https://github.com/TGusciora" target="_blank">🔗 Github</a></h4>  
 <h4><a href="https://www.linkedin.com/in/tgusciora/" target="_blank">🔗 LinkedIn</a></h4>  
-<br style="line-height:0.5rem;">  
+<br> 
 <h3><strong>🚀 What to Expect</strong></h3>  
-<br style="line-height:0.5rem;">  
 <ul>
   <li><strong>In-Depth Analysis:</strong> demystifying complex concepts with clear explanations.</li>
   <li><strong>Humour:</strong> not sure why. Probably my shrink should know.</li>
@@ -19,9 +16,8 @@ title: <strong>DemystifAI</strong>
   <li><strong>AI Use-Cases:</strong> showcasing what you can do when Decepticons activate.</li>
 </ul>
 <p>Are you ready to dive in? <strong>Buckle up for an enlightening ride!</strong></p>  
-<br style="line-height:0.5rem;">  
-<h3><strong>🔧 My Tech Toolkit</strong></h3>  
-<br style="line-height:0.5rem;">   
+<br> 
+<h3><strong>🔧 My Tech Toolkit</strong></h3>   
 <ul>
   <li>🐍 <strong>Python:</strong> for powerful and versatile coding.</li>
   <li>🤖 <strong>Large Language Models & AI:</strong> exploring the frontiers of artificial intelligence.</li>
@@ -29,6 +25,5 @@ title: <strong>DemystifAI</strong>
   <li>🏫 <strong>SQL:</strong> the language of databases.</li>
   <li>⛴️ <strong>Docker:</strong> containerizing applications for efficiency.</li>
   <li>📑 <strong>GIT:</strong> keeping our code and collaboration streamlined.</li>
-</ul>  
-<br style="line-height:0.5rem;">   
+</ul>    
 <p><em>Feel free to explore, and don't hesitate to reach out at <strong><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩tomasz@demystifAI.blog</a></strong> if you have questions or ideas to share!</em></p>
