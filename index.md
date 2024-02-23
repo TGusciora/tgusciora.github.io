@@ -1,5 +1,5 @@
 ---
-title: <strong>DemystifAI</strong>
+title: DemystifAI
 ---
 <h2><strong>Welcome to DemystifAI!</strong></h2>  
 <h3><strong>👋 Meet Tomasz</strong></h3>  
