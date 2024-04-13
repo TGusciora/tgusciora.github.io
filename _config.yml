@@ -2,12 +2,3 @@ theme: minima
 title: DemistyfAI
 author: Tomasz Gusciora (still figuring out how to display Polish acute accents in this section) 
 description: All rights reserved. All presented views & statements are solely my own. For more legal mumbo-jumbo - please read "Disclaimers" post. Mail me - Tomasz at demystifAI.blog
-<!-- MailerLite Universal -->
-<script>
-    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
-    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
-    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
-    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
-    ml('account', '908065');
-</script>
-<!-- End MailerLite Universal -->
