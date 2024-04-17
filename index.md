@@ -11,6 +11,8 @@ title: DemystifAI
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
 <h2><strong>Unlock the power of Artificial Intelligence & data:</strong></h2><br>
+</div>
+<div style="display: flex; justify-content: center; align-items: center;">
 <h2><strong>join my data science journey!</strong></h2>
 </div>
 <br>
