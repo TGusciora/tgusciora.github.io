@@ -34,7 +34,9 @@ Are you constantly frustrated by quality of code in data science projects? Me to
 <li> 😅 lack of sense of humour </li>
 </ol>
 <p>That's why I decided to expand my skillset and start learning on my own. I started this website to document my learning and share my journey with others. <br>
-<strong>Join me and avoid repeating my mistakes! Let's make new ones together!</strong></p></div>
+<strong>Join me and avoid repeating my mistakes! Let's make new ones together!</strong></p>
+</div>
+</div>
 <div style="text-align: center; margin-top: 20px;">
     <a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
         ✅ Sign up for DemystifAI newsletter
