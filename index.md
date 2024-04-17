@@ -10,7 +10,8 @@ title: DemystifAI
 </div>
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
-<h2><strong>Unlock the power of Artificial Intelligence & data:<br> join my data science journey!</strong></h2><br>
+<h2><strong>Unlock the power of Artificial Intelligence & data:</strong></h2><br>
+<h2><strong>join my data science journey!</strong></h2>
 </div>
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">  
@@ -27,14 +28,15 @@ I've spent over 10 years in the data analytics industry and I've grown fed up of
 <li> 🔄 not getting reproducible results </li>
 <li> 🔮 unreadable code </li>
 <li> 🥦 broccoli </li>
-<li> 😅 lack of sense of humour </li><br>
+<li> 😅 lack of sense of humour </li>
 That's why I decided to expand my skillset and start learning on my own. I started this website to document my learning and share my journey with others. <br>
-Join me and avoid repeating my mistakes! Let's make new ones together!</p></div>
+Join me and avoid repeating my mistakes! Let's make new ones together!</p></div></div>
 <div style="text-align: center; margin-top: 20px;">
     <a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
         ✅ Sign up for DemystifAI newsletter
     </a>
 </div>
+
 <br>
 
 
