@@ -27,6 +27,14 @@ title: DemystifAI
 <h4><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩 Contact me: tomasz@demystifAI.blog</a></h4>  
 <h4><a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank">✅ Sign-up for DemystifAI newsletter</a></h4>
 <br>
+<div style="text-align: center; margin-top: 20px;">
+    <a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
+        Sign Up for DemystifAI newsletter
+    </a>
+</div>
+
+
+
 <h4><a href="https://demystifAI.substack.com/" target="_blank">📑 Substack: https://demystifAI.substack.com/</a></h4>
 <h4><a href="https://github.com/TGusciora" target="_blank">🔗 Github: https://github.com/TGusciora</a></h4>  
 <h4><a href="https://www.linkedin.com/in/tgusciora/" target="_blank">🔗 LinkedIn: https://www.linkedin.com/in/tgusciora/</a></h4>
