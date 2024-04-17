@@ -59,10 +59,9 @@ title: DemystifAI
   
 <ul>
 <li><a href="https://demystifAI.substack.com/" target="_blank">📑 Substack: https://demystifAI.substack.com/</a></li>
-<li><a href="https://github.com/TGusciora" target="_blank">🔗 Github: https://github.com/TGusciora</a></li>
-<li><a href="https://github.com/TGusciora" target="_blank"><i class="fab fa-github fa-2x"></i>: https://github.com/TGusciora</a></li>
-<li><a href="https://www.linkedin.com/in/tgusciora/" target="_blank">🔗 LinkedIn: https://www.linkedin.com/in/tgusciora/</a></li>
-<li><a href="https://twitter.com/TomaszGusciora" target="_blank">🔗 Twitter/X: https://twitter.com/TomaszGusciora</a></li>
+<li><a href="https://github.com/TGusciora" target="_blank"><i class="fab fa-github"></i>: https://github.com/TGusciora</a></li>
+<li><a href="https://www.linkedin.com/in/tgusciora/" target="_blank"><i class="fab fa-linkedin"></i>: https://www.linkedin.com/in/tgusciora/</a></li>
+<li><a href="https://twitter.com/TomaszGusciora" target="_blank"><i class="fab fa-twitter-square"></i>: https://twitter.com/TomaszGusciora</a></li>
 <li><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩 Contact me: tomasz@demystifAI.blog</a></li> 
 </ul>
 <br> 
