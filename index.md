@@ -10,7 +10,7 @@ title: DemystifAI
 </div>
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
-<h2><strong>Unlock the power of data: join my data science journey!</strong></h2><br>
+<h2><strong>Unlock the power Artificial Intelligence (AI) & data: join my data science journey!</strong></h2><br>
 </div>
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">  
@@ -22,6 +22,12 @@ title: DemystifAI
 <br>  
 <p>Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot. Scroll down to see posts section.</p>
 </div>
+
+<div style="display: flex; justify-content: center; align-items: center; border: 2px solid black; padding: 20px;">
+    <img src="../../../assets/images/my_photo.jpg" alt="Tomasz Photo" style="width: 20%; margin-right: 20px;">
+    <p style="margin: 0;">Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot. Scroll down to see posts section.</p>
+</div>
+
 
 <h4><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩 Contact me: tomasz@demystifAI.blog</a></h4>  
 <h4><a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank">✅ Sign-up for DemystifAI newsletter</a></h4>
