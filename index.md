@@ -20,9 +20,9 @@ title: DemystifAI
  <img src="../../../assets/images/my_photo.jpg" alt="Tomasz Photo" style="width: 30%; margin-right: 20px;">
  <div style="width: 70%;">
 <div style="display: flex; justify-content: center; align-items: center;">  
-<h3><strong>👋 Meet Tomasz</strong></h3>
+<h3><strong>👋 Hi there! I'm Tomasz</strong></h3>
 </div>
- <p style="text-align: center;">Hi there! I'm <strong>Tomasz</strong>.</p><br>
+<br>
 <p style="text-align: justify;"><strong>Are you constantly frustrated by quality of code in data science projects? Me too!</strong></p><br>
 <p style="text-align: justify;">I've spent over 10 years in the data analytics industry and I've grown fed up of:<br></p>
 <ol type="1">
