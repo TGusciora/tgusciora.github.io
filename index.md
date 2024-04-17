@@ -20,7 +20,7 @@ title: DemystifAI
  <img src="../../../assets/images/my_photo.jpg" alt="Tomasz Photo" style="width: 30%; margin-right: 20px;">
  <div style="width: 70%;">
 <div style="display: flex; justify-content: center; align-items: center;">  
-<h3><strong>👋 Hi there! I'm Tomasz. 😊</strong></h3>
+<h3><p style="text-align: center;"><strong>👋 Hi there! I'm Tomasz. 😊</strong></p></h3>
 </div>
 <br>
 <p style="text-align: justify;"><strong>Are you constantly frustrated by quality of code in data science projects? Me too!</strong></p><br>
@@ -38,7 +38,7 @@ title: DemystifAI
 </div>
 <div style="text-align: center; margin-top: 20px;">
     <a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
-        ✅ Sign up for DemystifAI newsletter
+        <strong>✅ Sign up for DemystifAI newsletter</strong>
     </a>
 </div>
 <br>
@@ -73,7 +73,7 @@ title: DemystifAI
 <br>
 <div style="text-align: center; margin-top: 20px;">
     <a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
-        ✅ Sign up for DemystifAI newsletter
+        <strong>✅ Sign up for DemystifAI newsletter</strong>
     </a>
 </div>
 <br>
