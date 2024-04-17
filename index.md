@@ -39,9 +39,6 @@ title: DemystifAI
 </div>
 <br>
 
- Tomasz Photo
-
-Hi there! I'm Tomasz. If you're fascinated by data analysis or keen on boosting personal productivity, you've landed in the perfect spot. Scroll down to see posts section.
 
 
 
