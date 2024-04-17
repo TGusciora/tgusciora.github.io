@@ -1,9 +1,17 @@
 ---
 title: DemystifAI
 ---
-<h2><strong>Welcome to DemystifAI!</strong></h2>  
-<h3><strong>👋 Meet Tomasz</strong></h3>  
+
+![DemystifAI Logo](../../../assets/images/Logo_DemystifAI.png)
+<h2><strong>Welcome to DemystifAI!</strong></h2><br>
+<h2><strong>Unlock the power of data: join my data science journey!</strong></h2><br>  
+
+
+<h3><strong>👋 Meet Tomasz</strong></h3>
+![Photo of Tomasz](../../../assets/images/my_photo.jpg)  
 <p>Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot. Scroll down to see posts section.</p>
+
+
 <h4><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩 Contact me: tomasz@demystifAI.blog</a></h4>  
 <h4><a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank">✅ Sign-up for DemystifAI newsletter</a></h4>
 <br>
