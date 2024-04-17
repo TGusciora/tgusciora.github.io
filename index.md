@@ -20,19 +20,19 @@ title: DemystifAI
  <img src="../../../assets/images/my_photo.jpg" alt="Tomasz Photo" style="width: 30%; margin-right: 20px;">
  <div style="width: 70%;">
 <div style="display: flex; justify-content: center; align-items: center;">  
-<h3><strong>👋 Hi there! I'm Tomasz</strong></h3>
+<h3><strong>👋 Hi there! I'm Tomasz. 😊</strong></h3>
 </div>
 <br>
 <p style="text-align: justify;"><strong>Are you constantly frustrated by quality of code in data science projects? Me too!</strong></p><br>
-<p style="text-align: justify;">I've spent over 10 years in the data analytics industry and I've grown fed up of:<br></p>
+<p style="text-align: justify;">I've spent over 10 years in the data analytics industry and I've grown fed up with:<br></p>
 <ol type="1">
-<li> 💣 not working codes </li>
-<li> 🔄 not getting reproducible results </li>
-<li> 🔮 unreadable code </li>
-<li> 🥦 broccoli </li>
-<li> 😅 lack of sense of humour </li>
+<li> 💣 non-working codes, </li>
+<li> 🔄 lack of reproducible results, </li>
+<li> 🔮 unreadable code, </li>
+<li> 🥦 broccoli, </li>
+<li> 😅 lack of sense of humour. </li>
 </ol>
-<p style="text-align: justify;">That's why I decided to expand my skillset and start learning on my own. I started this website to document my learning and share my journey with others. <br><br> </p>
+<p style="text-align: justify;">That's why I decided to expand my skillset and start learning on my own. I created this website to document my learning journey and share it with others. <br><br> </p>
 <p style="text-align: center;"><strong>Sign up to join me and avoid repeating my mistakes!<br> Let's make new ones together!</strong></p>
 </div>
 </div>
