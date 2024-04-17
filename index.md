@@ -23,8 +23,8 @@ title: DemystifAI
 <div style="display: flex; justify-content: center; align-items: center; border: 2px solid black; padding: 20px;">
  <img src="../../../assets/images/my_photo.jpg" alt="Tomasz Photo" style="width: 30%; margin-right: 20px;">
  <div style="width: 70%;">
- <p style="text-align: center;">Hi there! I'm <strong>Tomasz</strong>.</p><br><br>
-<strong>Are you constantly frustrated by quality of code in data science projects? Me too!</strong></p><br>
+ <p style="text-align: center;">Hi there! I'm <strong>Tomasz</strong>.</p><br>
+<p style="text-align: justify;"<strong>Are you constantly frustrated by quality of code in data science projects? Me too!</strong></p><br><br>
 <p style="justify">I've spent over 10 years in the data analytics industry and I've grown fed up of:<br></p>
 <ol type="1">
 <li> 💣 not working codes </li>
@@ -34,7 +34,7 @@ title: DemystifAI
 <li> 😅 lack of sense of humour </li>
 </ol>
 <p style="text-align: justify;">That's why I decided to expand my skillset and start learning on my own. I started this website to document my learning and share my journey with others. <br><br> </p>
-<p style="text-align: centered;"><strong>Sign up to join me and avoid repeating my mistakes!<br> Let's make new ones together!</strong></p>
+<p style="text-align: center;"><strong>Sign up to join me and avoid repeating my mistakes!<br> Let's make new ones together!</strong></p>
 </div>
 </div>
 <div style="text-align: center; margin-top: 20px;">
@@ -53,6 +53,18 @@ title: DemystifAI
   <li>⛴️ <strong>Docker:</strong> containerizing applications for efficiency.</li>
   <li>📑 <strong>GIT:</strong> keeping our code and collaboration streamlined.</li>
 </ul>
+<br>
+<h3><strong>🔎 Where to find me?</strong></h3>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  
+<ul>
+<li><a href="https://demystifAI.substack.com/" target="_blank">📑 Substack: https://demystifAI.substack.com/</a></li>
+<li><a href="https://github.com/TGusciora" target="_blank">🔗 Github: https://github.com/TGusciora</a></li>
+<li><a href="https://github.com/TGusciora" target="_blank"><i class="fab fa-github fa-2x"></i>: https://github.com/TGusciora</a></li>
+<li><a href="https://www.linkedin.com/in/tgusciora/" target="_blank">🔗 LinkedIn: https://www.linkedin.com/in/tgusciora/</a></li>
+<li><a href="https://twitter.com/TomaszGusciora" target="_blank">🔗 Twitter/X: https://twitter.com/TomaszGusciora</a></li>
+<li><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩 Contact me: tomasz@demystifAI.blog</a></li> 
+</ul>
 <br> 
 <h3><strong>🚀 What to expect</strong></h3>  
 <ul>
@@ -62,15 +74,6 @@ title: DemystifAI
   <li><strong>AI use-cases:</strong> showcasing what you can do when Decepticons activate.</li>
 </ul>
 <p>Are you ready to dive in? <strong>Buckle up for an enlightening ride!</strong></p>  
-<br>
-<h3><strong>🔎 Where to find me?</strong></h3>  
-<ul>
-<li><a href="https://demystifAI.substack.com/" target="_blank">📑 Substack: https://demystifAI.substack.com/</a></li>
-<li><a href="https://github.com/TGusciora" target="_blank">🔗 Github: https://github.com/TGusciora</a></li>
-<li><a href="https://www.linkedin.com/in/tgusciora/" target="_blank">🔗 LinkedIn: https://www.linkedin.com/in/tgusciora/</a></li>
-<li><a href="https://twitter.com/TomaszGusciora" target="_blank">🔗 Twitter/X: https://twitter.com/TomaszGusciora</a></li>
-<li><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩 Contact me: tomasz@demystifAI.blog</a></li> 
-</ul>
 <br>
 <div style="text-align: center; margin-top: 20px;">
     <a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
