@@ -23,7 +23,7 @@ title: DemystifAI
 <div style="display: flex; justify-content: center; align-items: center; border: 2px solid black; padding: 20px;">
  <img src="../../../assets/images/my_photo.jpg" alt="Tomasz Photo" style="width: 30%; margin-right: 20px;">
  <div style="width: 70%;">
- <p style="center">Hi there! I'm <strong>Tomasz</strong>.<br><br>
+ <p style="center">Hi there! I'm <strong>Tomasz</strong>.</p><br><br>
 <strong>Are you constantly frustrated by quality of code in data science projects? Me too!</strong></p><br>
 <p style="justify">I've spent over 10 years in the data analytics industry and I've grown fed up of:<br></p>
 <ol type="1">
@@ -33,7 +33,7 @@ title: DemystifAI
 <li> 🥦 broccoli </li>
 <li> 😅 lack of sense of humour </li>
 </ol>
-<p align="justify">That's why I decided to expand my skillset and start learning on my own.<br> I started this website to document my learning and share my journey with others. <br><br>
+<p align="justify">That's why I decided to expand my skillset and start learning on my own. I started this website to document my learning and share my journey with others. <br><br> </p>
 <strong>Sign up to join me and avoid repeating my mistakes! Let's make new ones together!</strong></p>
 </div>
 </div>
@@ -56,21 +56,9 @@ title: DemystifAI
 
 
 
-<h4><a href="https://demystifAI.substack.com/" target="_blank">📑 Substack: https://demystifAI.substack.com/</a></h4>
-<h4><a href="https://github.com/TGusciora" target="_blank">🔗 Github: https://github.com/TGusciora</a></h4>  
-<h4><a href="https://www.linkedin.com/in/tgusciora/" target="_blank">🔗 LinkedIn: https://www.linkedin.com/in/tgusciora/</a></h4>
-<h4><a href="https://twitter.com/TomaszGusciora" target="_blank">🔗 Twitter/X : https://twitter.com/TomaszGusciora</a></h4>    
+ 
 <br> 
-<h3><strong>🚀 What to Expect</strong></h3>  
-<ul>
-  <li><strong>In-Depth Analysis:</strong> demystifying complex concepts with clear explanations.</li>
-  <li><strong>Humour:</strong> not sure why. Probably my shrink should know.</li>
-  <li><strong>Critical Thinking:</strong> challenging assumptions and embracing learning.</li>
-  <li><strong>AI Use-Cases:</strong> showcasing what you can do when Decepticons activate.</li>
-</ul>
-<p>Are you ready to dive in? <strong>Buckle up for an enlightening ride!</strong></p>  
-<br> 
-<h3><strong>🔧 My Tech Toolkit</strong></h3>   
+<h3><strong>🔧 My tech toolkit</strong></h3>   
 <ul>
   <li>🐍 <strong>Python:</strong> for powerful and versatile coding.</li>
   <li>🤖 <strong>Large Language Models & AI:</strong> exploring the frontiers of artificial intelligence.</li>
@@ -78,11 +66,29 @@ title: DemystifAI
   <li>🏫 <strong>SQL:</strong> the language of databases.</li>
   <li>⛴️ <strong>Docker:</strong> containerizing applications for efficiency.</li>
   <li>📑 <strong>GIT:</strong> keeping our code and collaboration streamlined.</li>
-</ul>    
-<p><em>Feel free to explore, and don't hesitate to reach out at <strong><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩tomasz@demystifAI.blog</a></strong> if you have questions or ideas to share!</em></p>
-
+</ul>
+<br> 
+<h3><strong>🚀 What to expect</strong></h3>  
+<ul>
+  <li><strong>In-depth analysis:</strong> demystifying complex concepts with clear explanations.</li>
+  <li><strong>Humour:</strong> not sure why. Probably my shrink should know.</li>
+  <li><strong>Critical thinking:</strong> challenging assumptions and embracing learning.</li>
+  <li><strong>AI use-cases:</strong> showcasing what you can do when Decepticons activate.</li>
+</ul>
+<p>Are you ready to dive in? <strong>Buckle up for an enlightening ride!</strong></p>  
+<br>
+<h3><strong>🚀 Where to find me?</strong></h3>  
+<ul>
+<li><a href="https://demystifAI.substack.com/" target="_blank">📑 Substack: https://demystifAI.substack.com/</a></li>
+<li><a href="https://github.com/TGusciora" target="_blank">🔗 Github: https://github.com/TGusciora</a></li>
+<li><a href="https://www.linkedin.com/in/tgusciora/" target="_blank">🔗 LinkedIn: https://www.linkedin.com/in/tgusciora/</a></li>
+<li><a href="https://twitter.com/TomaszGusciora" target="_blank">🔗 Twitter/X: https://twitter.com/TomaszGusciora</a></li>
+</ul>
+<br>
 <div style="text-align: center; margin-top: 20px;">
     <a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
         ✅ Sign up for DemystifAI newsletter
     </a>
 </div>
+<br>
+<p><em>Feel free to explore, and don't hesitate to reach out at <strong><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩tomasz@demystifAI.blog</a></strong> if you have questions or ideas to share!</em></p>
