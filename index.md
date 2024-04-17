@@ -24,8 +24,8 @@ title: DemystifAI
  <img src="../../../assets/images/my_photo.jpg" alt="Tomasz Photo" style="width: 30%; margin-right: 20px;">
  <div style="width: 70%;">
  <p style="text-align: center;">Hi there! I'm <strong>Tomasz</strong>.</p><br>
-<p style="text-align: justify;"<strong>Are you constantly frustrated by quality of code in data science projects? Me too!</strong></p><br><br>
-<p style="justify">I've spent over 10 years in the data analytics industry and I've grown fed up of:<br></p>
+<p style="text-align: justify;"><strong>Are you constantly frustrated by quality of code in data science projects? Me too!</strong></p><br><br>
+<p style="text-align: justify;">I've spent over 10 years in the data analytics industry and I've grown fed up of:<br></p>
 <ol type="1">
 <li> 💣 not working codes </li>
 <li> 🔄 not getting reproducible results </li>
@@ -58,11 +58,11 @@ title: DemystifAI
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   
 <ul>
-<li><a href="https://demystifAI.substack.com/" target="_blank">📑 Substack: https://demystifAI.substack.com/</a></li>
+<li><a href="https://demystifAI.substack.com/" target="_blank">📑 https://demystifAI.substack.com/</a></li>
 <li><a href="https://github.com/TGusciora" target="_blank"><i class="fab fa-github"></i>: https://github.com/TGusciora</a></li>
 <li><a href="https://www.linkedin.com/in/tgusciora/" target="_blank"><i class="fab fa-linkedin"></i>: https://www.linkedin.com/in/tgusciora/</a></li>
 <li><a href="https://twitter.com/TomaszGusciora" target="_blank"><i class="fab fa-twitter-square"></i>: https://twitter.com/TomaszGusciora</a></li>
-<li><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩 Contact me: tomasz@demystifAI.blog</a></li> 
+<li><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩: tomasz@demystifAI.blog</a></li> 
 </ul>
 <br> 
 <h3><strong>🚀 What to expect</strong></h3>  
