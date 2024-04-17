@@ -10,34 +10,45 @@ title: DemystifAI
 </div>
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
-<h2><strong>Unlock the power Artificial Intelligence (AI) & data: join my data science journey!</strong></h2><br>
+<h2><strong>Unlock the power of Artificial Intelligence & data:<br> join my data science journey!</strong></h2><br>
 </div>
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">  
 <h3><strong>👋 Meet Tomasz</strong></h3>
 </div>
 <br>
-<div style="display: flex; justify-content: center; align-items: center;">
-<img src="../../../assets/images/my_photo.jpg" alt="Tomasz Photo" width="20%" height="auto" class="center">
-<br>  
-<p>Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot. Scroll down to see posts section.</p>
-</div>
-
 <div style="display: flex; justify-content: center; align-items: center; border: 2px solid black; padding: 20px;">
-    <img src="../../../assets/images/my_photo.jpg" alt="Tomasz Photo" style="width: 20%; margin-right: 20px;">
-    <p style="margin: 0;">Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot. Scroll down to see posts section.</p>
+    <img src="../../../assets/images/my_photo.jpg" alt="Tomasz Photo" style="width: 30%; margin-right: 20px;">
+    <p style="margin: 0;">Hi there! I'm <strong>Tomasz</strong>.<br>
+	Are you constantly frustrated by quality of code in data science projects? Me too! <br>
+	I've spent over 10 years in the data analytics industry and I've grown fed up of:<br>
+	<ol type="1">
+	<li> 💣 not working codes </li>
+	<li> 🔄 not getting reproducible results </li>
+	<li> 🔮 unreadable code </li>
+	<li> 🥦 broccoli </li>
+	<li> 😅 lack of sense of humour </li><br>
+	That's why I decided to expand my skillset and start learning on my own. I started this website to document my learning and share my journey with others. <br>
+	Join me and avoid repeating my mistakes! Let's make new ones together!
+	</p>
 </div>
-
-
-<h4><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩 Contact me: tomasz@demystifAI.blog</a></h4>  
-<h4><a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank">✅ Sign-up for DemystifAI newsletter</a></h4>
-<br>
 <div style="text-align: center; margin-top: 20px;">
     <a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
         ✅ Sign up for DemystifAI newsletter
     </a>
 </div>
 <br>
+
+ Tomasz Photo
+
+Hi there! I'm Tomasz. If you're fascinated by data analysis or keen on boosting personal productivity, you've landed in the perfect spot. Scroll down to see posts section.
+
+
+
+<h4><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩 Contact me: tomasz@demystifAI.blog</a></h4>  
+<h4><a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank">✅ Sign-up for DemystifAI newsletter</a></h4>
+<br>
+
 <br>
 
 
