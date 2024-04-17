@@ -1,14 +1,17 @@
 ---
 title: DemystifAI
 ---
-<img src="../../../assets/images/Logo_DemystifAI.png" alt="DemystifAI logo" width="20%" height="auto" class="center">
-
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<img src="../../../assets/images/Logo_DemystifAI.png" alt="DemystifAI logo" width="30%" height="auto">
+</div>
 <h2><strong>Welcome to DemystifAI!</strong></h2><br>
 <h2><strong>Unlock the power of data: join my data science journey!</strong></h2><br>  
 
 
 <h3><strong>👋 Meet Tomasz</strong></h3>
-<img src="../../../assets/images/my_photo.jpg" alt="Tomasz Photo" width="20%" height="auto" class="center">  
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<img src="../../../assets/images/my_photo.jpg" alt="Tomasz Photo" width="20%" height="auto" class="center">
+</div>  
 <p>Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot. Scroll down to see posts section.</p>
 
 
