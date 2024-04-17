@@ -19,19 +19,20 @@ title: DemystifAI
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
 <img src="../../../assets/images/my_photo.jpg" alt="Tomasz Photo" width="20%" height="auto" class="center">
-</div>
 <br>  
 <p>Hi there! I'm <strong>Tomasz</strong>. If you're fascinated by <em>data analysis</em> or keen on boosting <em>personal productivity</em>, you've landed in the perfect spot. Scroll down to see posts section.</p>
-
+</div>
 
 <h4><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩 Contact me: tomasz@demystifAI.blog</a></h4>  
 <h4><a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank">✅ Sign-up for DemystifAI newsletter</a></h4>
 <br>
 <div style="text-align: center; margin-top: 20px;">
-    <a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
-        Sign Up for DemystifAI newsletter
+    <a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
+        ✅ Sign up for DemystifAI newsletter
     </a>
 </div>
+<br>
+<br>
 
 
 
