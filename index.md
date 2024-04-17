@@ -16,15 +16,14 @@ title: DemystifAI
 <h2><strong>join my data science journey!</strong></h2>
 </div>
 <br>
-<div style="display: flex; justify-content: center; align-items: center;">  
-<h3><strong>👋 Meet Tomasz</strong></h3>
-</div>
-<br>
 <div style="display: flex; justify-content: center; align-items: center; border: 2px solid black; padding: 20px;">
  <img src="../../../assets/images/my_photo.jpg" alt="Tomasz Photo" style="width: 30%; margin-right: 20px;">
  <div style="width: 70%;">
+<div style="display: flex; justify-content: center; align-items: center;">  
+<h3><strong>👋 Meet Tomasz</strong></h3>
+</div>
  <p style="text-align: center;">Hi there! I'm <strong>Tomasz</strong>.</p><br>
-<p style="text-align: justify;"><strong>Are you constantly frustrated by quality of code in data science projects? Me too!</strong></p><br><br>
+<p style="text-align: justify;"><strong>Are you constantly frustrated by quality of code in data science projects? Me too!</strong></p><br>
 <p style="text-align: justify;">I've spent over 10 years in the data analytics industry and I've grown fed up of:<br></p>
 <ol type="1">
 <li> 💣 not working codes </li>
@@ -43,7 +42,6 @@ title: DemystifAI
     </a>
 </div>
 <br>
-<br> 
 <h3><strong>🔧 My tech toolkit</strong></h3>   
 <ul>
   <li>🐍 <strong>Python:</strong> for powerful and versatile coding.</li>
@@ -56,7 +54,6 @@ title: DemystifAI
 <br>
 <h3><strong>🔎 Where to find me?</strong></h3>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-  
 <ul>
 <li><a href="https://demystifAI.substack.com/" target="_blank">📑 https://demystifAI.substack.com/</a></li>
 <li><a href="https://github.com/TGusciora" target="_blank"><i class="fab fa-github"></i>: https://github.com/TGusciora</a></li>
