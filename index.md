@@ -30,6 +30,7 @@ Are you constantly frustrated by quality of code in data science projects? Me to
 <li> 🔮 unreadable code </li>
 <li> 🥦 broccoli </li>
 <li> 😅 lack of sense of humour </li>
+</ol>
 <p>That's why I decided to expand my skillset and start learning on my own. I started this website to document my learning and share my journey with others. <br>
 <strong>Join me and avoid repeating my mistakes! Let's make new ones together!</strong></p></div>
 <div style="text-align: center; margin-top: 20px;">
