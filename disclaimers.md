@@ -1,6 +1,7 @@
 ---
-title: "Disclaimers (boring stuff)"
-date: 2024-01-01
+layout: page
+title: Disclaimers
+permalink: /disclaimers/
 ---
 
 ## Disclaimer in polish
