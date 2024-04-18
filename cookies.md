@@ -4,7 +4,7 @@ title: Cookies policy
 permalink: /cookies_policy/
 ---
 
-<meta http-equiv="refresh" content="0; url=../../../_includes/CookiesPolicy.html">
+<meta http-equiv="refresh" content="0; url=../../../CookiesPolicy.html">
 <script type="text/javascript">
-    window.location.href = "../../../_includes/CookiesPolicy.html";
+    window.location.href = "../../../CookiesPolicy.html";
 </script>
