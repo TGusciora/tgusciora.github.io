@@ -10,10 +10,18 @@ title: DemystifAI
 </div>
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
-<h2><strong>Unlock the power of Artificial Intelligence & data:</strong></h2><br>
+
+Elevate your data science journey with Tomasz and DemystifAI – where data science meets clarity and creativity.
+<h2><strong>Elevate your data science journey with Tomasz and DemystifAI -</strong></h2><br>
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
-<h2><strong>join my data science journey!</strong></h2>
+<h2><strong>where data science meets automation, clarity and creativity.</strong></h2>
+</div>
+<br>
+<div style="text-align: center; margin-top: 20px;">
+    <a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
+        <strong>✅ Sign up for DemystifAI newsletter</strong>
+    </a>
 </div>
 <br>
 <div style="display: flex; justify-content: center; align-items: center; border: 2px solid black; padding: 20px;">
@@ -35,11 +43,6 @@ title: DemystifAI
 <p style="text-align: justify;">That's why I decided to expand my skillset and start learning on my own. I created this website to document my learning journey and share it with others. <br><br> </p>
 <p style="text-align: center;"><strong>Sign up to join me and avoid repeating my mistakes!<br> Let's make new ones together!</strong></p>
 </div>
-</div>
-<div style="text-align: center; margin-top: 20px;">
-    <a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
-        <strong>✅ Sign up for DemystifAI newsletter</strong>
-    </a>
 </div>
 <br>
 <h3><strong>🔧 My tech toolkit</strong></h3>   
