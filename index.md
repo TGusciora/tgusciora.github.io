@@ -44,7 +44,7 @@ title: DemystifAI
 </div>
 </div>
 <br>
-<h3><strong>🔧 My tech toolkit</strong></h3>   
+<h3><strong>🔧 My tech toolkit (what tech you can expect in my posts)</strong></h3>   
 <ul>
   <li>🐍 <strong>Python:</strong> for powerful and versatile coding.</li>
   <li>🤖 <strong>Large Language Models & AI:</strong> exploring the frontiers of artificial intelligence.</li>
@@ -67,6 +67,7 @@ title: DemystifAI
 <h3><strong>🚀 What to expect</strong></h3>  
 <ul>
   <li><strong>In-depth analysis:</strong> demystifying complex concepts with clear explanations.</li>
+  <li><strong>Automation:</strong> let the robots do the heavy lifting, so I can dedicate more time to Netflix. 📺</li>
   <li><strong>Humour:</strong> not sure why. Probably my shrink should know.</li>
   <li><strong>Critical thinking:</strong> challenging assumptions and embracing learning.</li>
   <li><strong>AI use-cases:</strong> showcasing what you can do when Decepticons activate.</li>
