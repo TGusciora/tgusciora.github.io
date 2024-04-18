@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: null
 title: Privacy policy
-permalink: /privcay_policy/
+permalink: /privacy_policy/
 ---
 
-{% include PrivacyPolicy.html %}
+<meta http-equiv="refresh" content="0; url=../../../PrivacyPolicy.html">
+<script type="text/javascript">
+    window.location.href = "../../../PrivacyPolicy.html";
+</script>
