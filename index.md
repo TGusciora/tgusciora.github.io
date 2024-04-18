@@ -34,7 +34,7 @@ title: DemystifAI
 <ol type="1">
 <li> 💣 non-working codes, </li>
 <li> 🔄 lack of reproducible results, </li>
-<li> 👷 repeatable manual decision-making, </li>
+<li> 👷 human decisions that should be automated 🤖, </li>
 <li> 🔮 unreadable code, </li>
 <li> 🥦 broccoli, </li>
 <li> 😅 lack of sense of humour. </li>
