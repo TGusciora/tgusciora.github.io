@@ -4,15 +4,11 @@ title: Disclaimers
 permalink: /disclaimers/
 ---
 
-## Disclaimer in polish
+Last updated April 18th, 2024
 
-Treści na blogu ("DemystifAI", https://www.tgusciora.github.io, https://demystifAI.blog) są wyłącznie wyrazem osobistych poglądów autora. Poglądy te nie mogą być w żaden sposób powiązane z potencjalnymi pracodawcami autora lub osobami związanymi z autorem. Autor nie ponosi odpowiedzialności za treści zawarte na stronach, do których prowadzą odsyłacze zawarte w artykułach na blogu. Wszystkie decyzje podjęte na podstawie informacji zawartych na tym blogu podejmujesz na własną odpowiedzialność.
+### Personal views disclaimer
 
-## Disclaimers in english
-
-### Disclaimer
-
-Last updated January 20, 2024
+All views and statements expressed on https://www.tgusciora.github.io and https://demystifAI.blog (the "Site") are solely those of the author. They do not reflect the views of the author's employers or any other person associated with the author.
 
 ### Website disclaimer
 
