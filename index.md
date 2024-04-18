@@ -10,8 +10,6 @@ title: DemystifAI
 </div>
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
-
-Elevate your data science journey with Tomasz and DemystifAI – where data science meets clarity and creativity.
 <h2><strong>Elevate your data science journey with Tomasz and DemystifAI -</strong></h2><br>
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
