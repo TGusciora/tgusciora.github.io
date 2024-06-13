@@ -62,6 +62,7 @@ title: DemystifAI
 <li><a href="https://www.linkedin.com/in/tgusciora/" target="_blank"><i class="fab fa-linkedin"></i>: https://www.linkedin.com/in/tgusciora/</a></li>
 <li><a href="https://twitter.com/TomaszGusciora" target="_blank"><i class="fab fa-twitter-square"></i>: https://twitter.com/TomaszGusciora</a></li>
 <li><a href="mailto:tomasz@demystifAI.blog" target="_blank">📩: tomasz@demystifAI.blog</a></li> 
+<li><a href="https://www.admonymous.co/demystifai" target="_blank">📩 Leave me anonymous feedback</a></li> 
 </ul>
 <br> 
 <h3><strong>🚀 What to expect</strong></h3>  
