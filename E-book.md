@@ -6,17 +6,20 @@ permalink: /ebook/
 
 <script type="text/javascript" src="https://payhip.com/payhip.js"></script>
 <body>
-    <div class="container">
+<div style="display: flex; justify-content: center; align-items: center;">
         <h1>Smart Structuring</h1>
         <p class="subtitle">A Guide to Efficiently Managing Data Science Projects in Python</p>
-        <div class="author">
-            <img src="../../../assets/images/my_photo.jpg" alt="Tomasz Guściora">
-            <p>by Tomasz Guściora</p>
-        </div>
+</div>
+<div style="display: flex; justify-content: center; align-items: center; border: 2px solid black; padding: 20px;">
+ <img src="../../../assets/images/my_photo.jpg" alt="Tomasz Photo" style="width: 30%; margin-right: 20px;">
+ <div style="width: 70%;">
+<div style="display: flex; justify-content: center; align-items: center;">
+<h3><p style="text-align: center;"><strong>👋 Hi there! I'm Tomasz. 😊</strong></p></h3>
         <p>Are you struggling to keep your data science projects organized?  
 		Do you find yourself losing track of your progress amidst the chaos of unstructured files and folders?  Worry no more!  
 		In "Smart Structuring," Tomasz Guściora shares his decade-long experience in the data science field, peppered with humor and personal anecdotes, to help you streamline your projects and increase productivity.</p>
-        
+</div>
+     
         <div class="features">
             <h2>What's Inside?</h2>
             <ul>
