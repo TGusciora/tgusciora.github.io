@@ -41,5 +41,3 @@ permalink: /ebook/
             <div style="text-align: center;">
                 <p>Have questions? <a href="mailto:tomasz@demystifAI.blog">Contact the author</a></p>
             </div>
-        </div>
-    </div>
