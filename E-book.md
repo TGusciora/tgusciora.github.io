@@ -11,7 +11,7 @@ permalink: /ebook/
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
     <br>
-    <img src="../../../assets/images/E001_landing/cover_title_hip.png" alt="Author photo" width="50%" height="auto">
+    <img id="dynamic-image" src="../../../assets/images/E001_landing/cover_title_hip.png" alt="Author photo" width="50%" height="auto">
 </div>
 <div style="text-align: center;">
     <button onclick="previousImage()">Previous</button>
@@ -53,12 +53,12 @@ permalink: /ebook/
         '../../../assets/images/E001_landing/cover_title_hip.png',
         '../../../assets/images/E001_landing/bio.png',
         '../../../assets/images/E001_landing/toc1.png',
-		'../../../assets/images/E001_landing/toc2.png',
+        '../../../assets/images/E001_landing/toc2.png',
     ];
     let currentIndex = 0;
 
     function showImage(index) {
-        const imgElement = document.getElementById('author-photo');
+        const imgElement = document.getElementById('dynamic-image');
         imgElement.src = images[index];
     }
 
