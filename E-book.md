@@ -8,10 +8,6 @@ permalink: /ebook/
 <div style="display: flex; justify-content: center; align-items: center;">
 <h2><strong>Smart Structuring</strong></h2>
 <p class="subtitle"><strong>A Guide to Efficiently Managing Data Science Projects in Python</strong></p>
-</div>
-    <div style="display: flex; justify-content: center; align-items: center; border: 2px solid black; padding: 20px;">
-        <img src="../../../assets/images/my_photo.jpg" alt="Tomasz Photo" style="width: 30%; margin-right: 20px;">
-        <div style="width: 70%;">
 blah blah blah
 <div style="display: flex; justify-content: center; align-items: center;">
             <br>
@@ -29,5 +25,4 @@ blah blah blah
                     <li>Valuable insights from Tomasz's personal experiences</li>
                 </ul>
             </div>
-</div>
 <br>
