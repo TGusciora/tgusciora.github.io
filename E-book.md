@@ -110,12 +110,14 @@ permalink: /ebook/
                     </div>
 
                     <div class="content mb-4">
-                        <p><strong>Are you struggling to keep your data science projects organized?</strong></p>
-						<p><strong>Do you find yourself losing track of your progress amidst the chaos of unstructured files and folders?</strong></p>
+                        <p>Are you struggling to keep your data science projects organized?</p>
+						<p>Do you find yourself losing track of your progress amidst the chaos of unstructured files and folders?</p>
 						<br>
                         <p><strong>Worry no more!</strong></p>
 						<br>
-						<p><strong>In "Smart Structuring," Tomasz Guściora shares his decade-long experience in the data science field, peppered with humor and personal anecdotes, to help you streamline your projects and increase productivity.</strong></p>
+						<p>In "Smart Structuring," Tomasz Guściora shares his decade-long experience in the data science field, peppered with humor and personal anecdotes, to help you streamline your projects and increase productivity.</p>
+						<br>
+						<br>
                         <h2><strong>What's Inside?</strong></h2>
                         <ul>
                             <li>Practical advice on project management for Python codebase</li>
