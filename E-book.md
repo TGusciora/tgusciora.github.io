@@ -13,7 +13,9 @@ permalink: /ebook/
             <img src="author-photo.jpg" alt="Tomasz Guściora">
             <p>by Tomasz Guściora</p>
         </div>
-        <p>Are you struggling to keep your data science projects organized? Do you find yourself losing track of your progress amidst the chaos of unstructured files and folders? Worry no more! In "Smart Structuring," Tomasz Guściora shares his decade-long experience in the data science field, peppered with humor and personal anecdotes, to help you streamline your projects and increase productivity.</p>
+        <p>Are you struggling to keep your data science projects organized?  
+		Do you find yourself losing track of your progress amidst the chaos of unstructured files and folders?  Worry no more!  
+		In "Smart Structuring," Tomasz Guściora shares his decade-long experience in the data science field, peppered with humor and personal anecdotes, to help you streamline your projects and increase productivity.</p>
         
         <div class="features">
             <h2>What's Inside?</h2>
