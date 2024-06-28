@@ -11,7 +11,11 @@ permalink: /ebook/
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
     <br>
-    <img src="../../../assets/images/my_photo.jpg" alt="Author photo" width="50%" height="auto">
+    <img src="../../../assets/images/E001_landing/cover_title_hip.png" alt="Author photo" width="50%" height="auto">
+</div>
+<div style="text-align: center;">
+    <button onclick="previousImage()">Previous</button>
+    <button onclick="nextImage()">Next</button>
 </div>
 <br>
 <p style="text-align: justify;">
@@ -43,3 +47,28 @@ permalink: /ebook/
 <div style="text-align: center;">
     <p>Have questions? <a href="mailto:tomasz@demystifAI.blog">Contact the author</a></p>
 </div>
+
+<script>
+    const images = [
+        '../../../assets/images/E001_landing/cover_title_hip.png',
+        '../../../assets/images/E001_landing/bio.png',
+        '../../../assets/images/E001_landing/toc1.png',
+		'../../../assets/images/E001_landing/toc2.png',
+    ];
+    let currentIndex = 0;
+
+    function showImage(index) {
+        const imgElement = document.getElementById('author-photo');
+        imgElement.src = images[index];
+    }
+
+    function nextImage() {
+        currentIndex = (currentIndex + 1) % images.length;
+        showImage(currentIndex);
+    }
+
+    function previousImage() {
+        currentIndex = (currentIndex - 1 + images.length) % images.length;
+        showImage(currentIndex);
+    }
+</script>
