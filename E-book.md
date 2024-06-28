@@ -4,48 +4,42 @@ title: E-book
 permalink: /ebook/
 ---
 <script type="text/javascript" src="https://payhip.com/payhip.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css">
 
-<h2 style="text-align: center;"><strong>Smart Structuring</strong></h2>
-<div style="display: flex; justify-content: center; align-items: center;">
-    <p style="text-align: center;"><strong>A Guide to Efficiently Managing Data Science Projects in Python</strong></p>
-</div>
-<div style="display: flex; justify-content: center; align-items: center;">
-    <br>
-    <img id="dynamic-image" src="../../../assets/images/E001_landing/cover_title_hip.png" alt="Author photo" width="50%" height="auto">
-</div>
-<div style="text-align: center;">
-    <button onclick="previousImage()">Previous</button>
-    <button onclick="nextImage()">Next</button>
-</div>
-<br>
-<p style="text-align: justify;">
-    <strong>
+<div class="container my-5">
+    <div class="header text-center mb-4">
+        <h2><strong>Smart Structuring</strong></h2>
+        <p><strong>A Guide to Efficiently Managing Data Science Projects in Python</strong></p>
+    </div>
+
+    <div class="image-slider text-center mb-4">
+        <img id="dynamic-image" src="../../../assets/images/E001_landing/cover_title_hip.png" alt="Book cover" class="img-fluid rounded" style="max-width: 100%; height: auto;">
+        <div class="mt-3">
+            <button class="btn btn-primary me-2" onclick="previousImage()">Previous</button>
+            <button class="btn btn-primary" onclick="nextImage()">Next</button>
+        </div>
+    </div>
+
+    <div class="content mb-4">
+        <p><strong>Are you struggling to keep your data science projects organized? Do you find yourself losing track of your progress amidst the chaos of unstructured files and folders?</strong></p>
+        <p><strong>Worry no more! In "Smart Structuring," Tomasz Guściora shares his decade-long experience in the data science field, peppered with humor and personal anecdotes, to help you streamline your projects and increase productivity.</strong></p>
+        <h2><strong>What's Inside?</strong></h2>
         <ul>
-            <li>Are you struggling to keep your data science projects organized?</li>
-            <li>Do you find yourself losing track of your progress amidst the chaos of unstructured files and folders?</li>
+            <li>Practical advice on project management</li>
+            <li>Humorous analogies and metaphors to simplify complex concepts</li>
+            <li>Clear explanations of coding best practices</li>
+            <li>Step-by-step guides with real-life examples</li>
+            <li>Valuable insights from Tomasz's personal experiences</li>
         </ul>
-        Worry no more! In "Smart Structuring," Tomasz Guściora shares his decade-long experience in the data science field, peppered with humor and personal anecdotes, to help you streamline your projects and increase productivity.
-    </strong>
-</p>
-<br>
-<div>
-    <h2><strong>What's Inside?</strong></h2>
-    <ul>
-        <li>Practical advice on project management</li>
-        <li>Humorous analogies and metaphors to simplify complex concepts</li>
-        <li>Clear explanations of coding best practices</li>
-        <li>Step-by-step guides with real-life examples</li>
-        <li>Valuable insights from Tomasz's personal experiences</li>
-    </ul>
-</div>
-<div style="text-align: center; margin-top: 20px;">
-    <a href="https://payhip.com/b/4pz9P" target="_blank" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
-        <strong>Buy Now</strong>
-    </a>
-</div>
-<br>
-<div style="text-align: center;">
-    <p>Have questions? <a href="mailto:tomasz@demystifAI.blog">Contact the author</a></p>
+    </div>
+
+    <div class="text-center my-4">
+        <a href="https://payhip.com/b/4pz9P" target="_blank" class="btn btn-primary btn-lg"><strong>Buy Now</strong></a>
+    </div>
+
+    <div class="footer text-center mt-4">
+        <p>Have questions? <a href="mailto:tomasz@demystifAI.blog">Contact the author</a></p>
+    </div>
 </div>
 
 <script>
