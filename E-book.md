@@ -4,9 +4,8 @@ title: E-book
 permalink: /ebook/
 ---
 <script type="text/javascript" src="https://payhip.com/payhip.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css">
 
-<div class="container my-5">
+<div id="ebook-container">
     <div class="header text-center mb-4">
         <h2><strong>Smart Structuring</strong></h2>
         <p><strong>A Guide to Efficiently Managing Data Science Projects in Python</strong></p>
@@ -65,4 +64,10 @@ permalink: /ebook/
         currentIndex = (currentIndex - 1 + images.length) % images.length;
         showImage(currentIndex);
     }
+
+    // Load Bootstrap CSS and apply it to the ebook-container
+    var link = document.createElement("link");
+    link.rel = "stylesheet";
+    link.href = "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css";
+    document.getElementById("ebook-container").appendChild(link);
 </script>
