@@ -127,11 +127,10 @@ permalink: /ebook/
                             <li>Valuable insights from Tomasz's personal experiences</li>
                         </ul>
                     </div>
-					<script type="text/javascript" src="https://payhip.com/payhip.js"></script>
+
                     <div class="text-center my-4">
-                        <a href="https://payhip.com/b/4pz9P" class="payhip-buy-button" data-theme="green" ><strong>Buy Now</strong></a>
+                        <a href="https://payhip.com/b/4pz9P" target="_blank" class="btn btn-primary btn-lg"><strong>Buy Now</strong></a>
                     </div>
-					
 
                     <div class="footer text-center mt-4">
                         <p>Have questions? <a href="mailto:tomasz@demystifAI.blog">Contact the author</a></p>
