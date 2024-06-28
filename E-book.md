@@ -3,8 +3,8 @@ layout: null
 title: E-book
 permalink: /ebook/
 ---
-<title>Smart Structuring - E-book by Tomasz Guściora</title>
 <script type="text/javascript" src="https://payhip.com/payhip.js"></script>
+<title>Smart Structuring - E-book by Tomasz Guściora</title>
 <h2><strong>Smart Structuring</strong></h2>
 <div style="display: flex; justify-content: center; align-items: center;">
 <p><strong>A Guide to Efficiently Managing Data Science Projects in Python</strong></p>
@@ -31,3 +31,12 @@ Worry no more! In "Smart Structuring," Tomasz Guściora shares his decade-long 
 <li>Valuable insights from Tomasz's personal experiences</li>
 </ul>
 </div>
+<div style="text-align: center; margin-top: 20px;">
+<a href="https://payhip.com/b/4pz9P" target="_blank" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
+<strong>Buy Now</strong>
+</a>
+</div>
+<br>
+<div style="text-align: center;">
+<p>Have questions? <a href="mailto:tomasz@demystifAI.blog">Contact the author</a></p>
+            </div>
