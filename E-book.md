@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: page
 title: E-book
 permalink: /ebook/
 ---
