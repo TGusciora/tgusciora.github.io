@@ -10,7 +10,7 @@ permalink: /ebook/
         <h1>Smart Structuring</h1>
         <p class="subtitle">A Guide to Efficiently Managing Data Science Projects in Python</p>
         <div class="author">
-            <img src="author-photo.jpg" alt="Tomasz Guściora">
+            <img src="../../../assets/images/my_photo.jpg" alt="Tomasz Guściora">
             <p>by Tomasz Guściora</p>
         </div>
         <p>Are you struggling to keep your data science projects organized?  
