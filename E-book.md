@@ -4,6 +4,10 @@ title: E-book
 permalink: /ebook/
 ---
 
+<div class="alert alert-success text-center" role="alert">
+    Get your e-book for free if you enroll in the newsletter before the end of this Sunday!
+</div>
+
 <ebook-component></ebook-component>
 
 <script>
