@@ -6,7 +6,7 @@ permalink: /ebook/
 
 <div style="text-align: center; margin-top: 20px;">
     <a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
-        <strong>Get your e-book for free if you enroll in the newsletter before the end of this Sunday (14th of July 2024)! Sign-up and receive 100% discount code!</strong>
+        <strong>Unlock your free e-book! Enroll in our newsletter by end-of-day Sunday, July 14, 2024, and snag a 100% discount code. Don't miss out — sign up now!</strong>
     </a>
 </div>
 <ebook-component></ebook-component>
