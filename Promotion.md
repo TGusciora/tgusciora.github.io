@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Sign up to DemystifAI and get your e-book for free!
+title: Promotion!
 permalink: /promotion/
 ---
 
+<h2><strong>Sign up to DemystifAI and get your e-book for free!</strong></h2>
 
 <!-- MailerLite Universal -->
 <script>
@@ -15,7 +16,7 @@ permalink: /promotion/
 </script>
 <!-- End MailerLite Universal -->
 
-<div class="ml-embedded" data-form="9R3d3M"></div>
+<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', '9R3d3M', true)">Kliknij tutaj, aby pokazać formularz</a>
 
 
 <ebook-component></ebook-component>
