@@ -16,8 +16,9 @@ permalink: /promotion/
 </script>
 <!-- End MailerLite Universal -->
 
-<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', '9R3d3M', true)"><h2><strong>Sign up to DemystifAI and get your e-book for free!</strong></h2></a>
-
+<h2>
+<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', '9R3d3M', true)"><strong>Sign up to DemystifAI and get your e-book for free!</strong></a>
+</h2>
 
 <ebook-component></ebook-component>
 
@@ -141,8 +142,7 @@ permalink: /promotion/
                             <li>Valuable insights from Tomasz's personal experiences</li>
                         </ul>
                     </div>
-
-					<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', '9R3d3M', true)"><h2><strong>Sign up to DemystifAI and get your e-book for free!</strong></h2></a>
+					<h2><a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', '9R3d3M', true)"><strong>Sign up to DemystifAI and get your e-book for free!</strong></a></h2>
 
                     <div class="footer text-center mt-4">
                         <p>Have questions? <a href="mailto:tomasz@demystifAI.blog">Contact the author</a></p>
