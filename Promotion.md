@@ -19,7 +19,7 @@ permalink: /promotion/
 <h2>
 <div style="text-align: center; margin-top: 20px;">
     <a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', '9R3d3M', true)" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
-        <strong>✅ Sign up and get the e-book for free!</strong>
+        <strong>📗 Sign up and get the e-book for free! 📗</strong>
     </a>
 </div>
 </h2>
@@ -149,7 +149,7 @@ permalink: /promotion/
 					<h2>
 					<div style="text-align: center; margin-top: 20px;">
 					<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', '9R3d3M', true)" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
-					<strong>✅ Sign up and get the e-book for free!</strong>
+					<strong>📗 Sign up and get the e-book for free! 📗</strong>
 					</a>
 					</div>
 					</h2>
