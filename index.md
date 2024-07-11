@@ -1,6 +1,15 @@
 ---
 title: DemystifAI
 ---
+<!-- MailerLite Universal -->
+<script>
+    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+    ml('account', '908065');
+</script>
+<!-- End MailerLite Universal -->
 <div style="display: flex; justify-content: center; align-items: center;">
 <h2><strong>Welcome to DemystifAI!</strong></h2><br>
 </div>
@@ -17,7 +26,7 @@ title: DemystifAI
 </div>
 <br>
 <div style="text-align: center; margin-top: 20px;">
-    <a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
+    <a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', '9R3d3M', true)" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
         <strong>✅ Join the DemystifAI newsletter! ✅</strong>
     </a>
 </div>
@@ -76,7 +85,7 @@ title: DemystifAI
 <p>Are you ready to dive in? <strong>Buckle up for an enlightening ride!</strong></p>  
 <br>
 <div style="text-align: center; margin-top: 20px;">
-    <a href="https://dashboard.mailerlite.com/forms/908065/118486564530554788/share" target="_blank" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
+    <a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', '9R3d3M', true)" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
         <strong>✅ Join the DemystifAI newsletter! ✅</strong>
     </a>
 </div>
