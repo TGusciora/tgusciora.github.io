@@ -4,7 +4,7 @@ title: Promotion!
 permalink: /promotion/
 ---
 
-<h2><strong>Sign up to DemystifAI and get your e-book for free!</strong></h2>
+
 
 <!-- MailerLite Universal -->
 <script>
@@ -16,7 +16,7 @@ permalink: /promotion/
 </script>
 <!-- End MailerLite Universal -->
 
-<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', '9R3d3M', true)">Kliknij tutaj, aby pokazać formularz</a>
+<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', '9R3d3M', true)"><h2><strong>Sign up to DemystifAI and get your e-book for free!</strong></h2></a>
 
 
 <ebook-component></ebook-component>
@@ -142,9 +142,7 @@ permalink: /promotion/
                         </ul>
                     </div>
 
-                    <div class="text-center my-4">
-                        <a href="https://cart.easy.tools/checkout/19955710/smart-structuring" target="_blank" class="btn btn-success btn-lg"><strong>Buy Now</strong></a>
-                    </div>
+					<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', '9R3d3M', true)"><h2><strong>Sign up to DemystifAI and get your e-book for free!</strong></h2></a>
 
                     <div class="footer text-center mt-4">
                         <p>Have questions? <a href="mailto:tomasz@demystifAI.blog">Contact the author</a></p>
