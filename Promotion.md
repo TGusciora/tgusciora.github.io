@@ -17,7 +17,11 @@ permalink: /promotion/
 <!-- End MailerLite Universal -->
 
 <h2>
-<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', '9R3d3M', true)"><strong>Sign up to DemystifAI and get your e-book for free!</strong></a>
+<div style="text-align: center; margin-top: 20px;">
+    <a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', '9R3d3M', true)" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
+        <strong>✅ Sign up and get the e-book for free!</strong>
+    </a>
+</div>
 </h2>
 
 <ebook-component></ebook-component>
@@ -142,7 +146,13 @@ permalink: /promotion/
                             <li>Valuable insights from Tomasz's personal experiences</li>
                         </ul>
                     </div>
-					<h2><a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', '9R3d3M', true)"><strong>Sign up to DemystifAI and get your e-book for free!</strong></a></h2>
+					<h2>
+					<div style="text-align: center; margin-top: 20px;">
+					<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', '9R3d3M', true)" style="background-color: #007BFF; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px;">
+					<strong>✅ Sign up and get the e-book for free!</strong>
+					</a>
+					</div>
+					</h2>
 
                     <div class="footer text-center mt-4">
                         <p>Have questions? <a href="mailto:tomasz@demystifAI.blog">Contact the author</a></p>
